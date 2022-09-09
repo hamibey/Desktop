@@ -1,0 +1,11 @@
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\bin\Debug\FinalOne.exe.config
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\bin\Debug\FinalOne.exe
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\bin\Debug\FinalOne.pdb
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.csproj.AssemblyReference.cache
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.Properties.Resources.resources
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.csproj.GenerateResource.cache
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.csproj.CoreCompileInputs.cache
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.exe
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.pdb
+C:\Users\Hami\Desktop\C#\FinalOne\FinalOne\obj\Debug\FinalOne.Form1.resources
